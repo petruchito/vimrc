@@ -1,6 +1,10 @@
 execute pathogen#infect()
 set nocompatible
 filetype plugin indent on
+set expandtab
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
 set t_u7=
 "set relativenumber
 set number
